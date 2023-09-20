@@ -1,0 +1,7 @@
+oa,start,5,143705,52,modrá
+ua,start,3,175917,5,7545
+oa,start,2,77189,53,červená
+ua,start,8,108013,96,7516
+oa,start,7,7789,53,modrá
+oa,start,4,7718,43,modrá
+oa,start,9,7189,23,modrá

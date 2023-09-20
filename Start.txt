@@ -1,0 +1,16 @@
+oa,start,H,143705,52,modrá
+ua,start,D,175917,5,7545
+oa,start,M,77189,53,červená
+oa,start,B,7789,33,červená
+ua,start,G,108013,96,7516
+oa,start,J,7189,73,červená
+oa,start,N,7719,23,modrá
+oa,start,A,7719,23,modrá
+oa,start,C,7719,23,modrá
+oa,start,E,7719,23,modrá
+oa,start,I,7719,23,modrá
+oa,start,L,7719,23,modrá
+oa,start,P,7719,23,modrá
+oa,start,F,7719,23,modrá
+oa,start,K,7719,23,modrá
+oa,start,O,7719,23,modrá
